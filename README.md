@@ -55,10 +55,14 @@ Full Stack Task Management System.
 ---
 ## 📫 Connect With Me
 
-📧 Email: prajapatirohit4169@gmail.com
+📧 Email: 
+prajapatirohit4169@gmail.com
+
 💼 LinkedIn:
 https://leetcode.com/u/Prajapatirohit1234/
+
 🌐 Portfolio:
 https://portfoliovercelapp-gold.vercel.app/
+
 🧩 LeetCode:
 https://leetcode.com/u/Prajapatirohit1234/
