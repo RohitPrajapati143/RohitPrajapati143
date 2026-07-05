@@ -4,8 +4,6 @@
 Software Developer | Full Stack Developer
 </h3>
 
----
-
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science Engineering
@@ -13,8 +11,6 @@ Software Developer | Full Stack Developer
 - 🌱 Learning Node.js React and System Design
 - 🚀 Interested in Backend Development
 - 📍 Kanpur, Uttar Pradesh, India
-
----
 
 ## 🛠 Tech Stack
 
@@ -44,10 +40,11 @@ Software Developer | Full Stack Developer
 ## 🚀 Projects
 
 ### Portfolio Website
-Personal responsive portfolio built using HTML, CSS and JavaScript.
-
+Personal responsive portfolio built using HTML, CSS.
+https://portfoliovercelapp-gold.vercel.app/
 ### Airline Management System
 Java desktop application for airline reservation and management.
+https://github.com/RohitPrajapati143/Airline-management-system
 
 ### Social Media App
 Flutter-based social networking application.
@@ -56,16 +53,12 @@ Flutter-based social networking application.
 Full Stack Task Management System.
 
 ---
-
 ## 📫 Connect With Me
 
 📧 Email: prajapatirohit4169@gmail.com
-
 💼 LinkedIn:
 https://leetcode.com/u/Prajapatirohit1234/
-
 🌐 Portfolio:
 https://portfoliovercelapp-gold.vercel.app/
-
 🧩 LeetCode:
 https://leetcode.com/u/Prajapatirohit1234/
